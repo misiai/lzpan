@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Statistics"],{fd4c:function(t,s,a){"use strict";a.r(s);var i=function(){var t=this,s=t.$createElement,a=t._self._c||s;return a("div",{staticClass:"statistics"},[t._v(" 统计信息 ")])},c=[],e={name:"Statistics"},n=e,l=a("2877"),r=Object(l["a"])(n,i,c,!1,null,"04fd6a4b",null);s["default"]=r.exports}}]);
+//# sourceMappingURL=Statistics.js.map
